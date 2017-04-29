@@ -31,7 +31,7 @@ settings =
     {
         ["plugin.wallpaper"] =
         {
-            publisherId = "tech.scott",
+            publisherId = "tech.scotth",
         },
     },
 }
